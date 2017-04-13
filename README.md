@@ -10,7 +10,7 @@ Movie Info Web Application made with Axios and Javascript<br>
 7)Click view details for summary of plot etc...<br>
 8)This application uses axios , javascript and bootstrap 3.<br>
 
-
+![alt tag](https://github.com/RamanathMadiwal/MovieInfoWebApp/blob/master/assets/images/movieinfo/movieinfo.png "Home Page ScreenShot")
 
 
 
