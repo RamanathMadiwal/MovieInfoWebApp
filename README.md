@@ -12,6 +12,7 @@ Movie Info Web Application made with Axios and Javascript<br>
 
 ![alt tag](https://github.com/RamanathMadiwal/MovieInfoWebApp/blob/master/assets/images/movieinfo/movieinfo.png "Home Page ScreenShot")
 
+![alt tag](https://cloud.githubusercontent.com/assets/25265882/25015808/107a2bf0-209b-11e7-81b5-0ca7801e0749.png "Home Page ScreenShot")
 
 
 <div align="center"> <h5 style="color: red" ><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Disclaimer:This web application should not be used for
