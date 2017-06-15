@@ -1,4 +1,6 @@
 # MovieInfoWebApp
+Note:OMdbi  has now charging money hence the application is directed to new website "moviedb" just sorts the movie list
+
 Movie Info Web Application made with Axios and Javascript<br>
 
 1)Download the files.<br>
